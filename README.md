@@ -54,7 +54,7 @@ var resolve = require( '@stdlib/ndarray-base-dtype-resolve-enum' );
 
 #### resolve( dtype )
 
-Return the enumeration constant associated with an ndarray data type value.
+Returns the enumeration constant associated with an ndarray data type value.
 
 ```javascript
 var str2enum = require( '@stdlib/ndarray-base-dtype-str2enum' );
