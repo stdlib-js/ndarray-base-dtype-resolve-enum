@@ -37,11 +37,14 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/assert-is-integer": "^0.2.2",
+    "@stdlib/assert-is-struct-constructor-like": "github:stdlib-js/assert-is-struct-constructor-like#main",
     "@stdlib/ndarray-base-dtype-enum2str": "^0.2.2",
     "@stdlib/ndarray-base-dtype-str2enum": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/assert-is-integer": "^0.2.2",
+    "@stdlib/dstructs-struct": "github:stdlib-js/dstructs-struct#main",
+    "@stdlib/ndarray-dtype-ctor": "github:stdlib-js/ndarray-dtype-ctor#main",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",

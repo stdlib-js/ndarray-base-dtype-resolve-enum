@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-09-19)
+
+<section class="features">
+
+### Features
+
+-   [`f660e38`](https://github.com/stdlib-js/stdlib/commit/f660e38225095ed8c07324924ff37098d6f96851) - add support for `struct` and `DataType` dtype values
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`f660e38`](https://github.com/stdlib-js/stdlib/commit/f660e38225095ed8c07324924ff37098d6f96851) - **feat:** add support for `struct` and `DataType` dtype values _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
