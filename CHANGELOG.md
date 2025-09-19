@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`27f1ef7`](https://github.com/stdlib-js/stdlib/commit/27f1ef7f2cc984271a6de66ad2dff042651e750a) - **test:** ensure full branch coverage _(by Athan Reines)_
 -   [`f660e38`](https://github.com/stdlib-js/stdlib/commit/f660e38225095ed8c07324924ff37098d6f96851) - **feat:** add support for `struct` and `DataType` dtype values _(by Athan Reines)_
 
 </details>
