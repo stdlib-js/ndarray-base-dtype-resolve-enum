@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-dtype-resolve-enum",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Return the enumeration constant associated with a supported ndarray data type value.",
   "license": "Apache-2.0",
   "author": {
@@ -37,14 +37,14 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-integer": "^0.2.2",
-    "@stdlib/assert-is-struct-constructor-like": "^0.1.0",
+    "@stdlib/assert-is-integer": "^0.2.3",
+    "@stdlib/assert-is-struct-constructor-like": "^0.1.1",
     "@stdlib/ndarray-base-dtype-enum2str": "^0.2.2",
-    "@stdlib/ndarray-base-dtype-str2enum": "^0.2.2"
+    "@stdlib/ndarray-base-dtype-str2enum": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/dstructs-struct": "github:stdlib-js/dstructs-struct#main",
-    "@stdlib/ndarray-dtype-ctor": "github:stdlib-js/ndarray-dtype-ctor#main",
+    "@stdlib/dstructs-struct": "^0.1.0",
+    "@stdlib/ndarray-dtype-ctor": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
